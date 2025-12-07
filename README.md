@@ -33,7 +33,7 @@ Secure note-making platform with user authentication and CRUD features.
 *Django | Algorithms | HTML | CSS | JS*  
 A web app that provides real-time global sports updates.
 
-🔗 **More Projects →** *(Link to Portfolio)*
+[🔗 **More Projects →** *(Link to Portfolio)*](https://athinamdar.github.io/portfolio/)
 
 ---
 
