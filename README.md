@@ -1,66 +1,21 @@
-# Hi there, I'm Atharv Inamdar! 👋
+# 💫 About Me:
+Atharv Inamdar <br>atharvinamdar595@gmail.com | 2022.atharv.inamdar@ves.ac.in  <br>github.com/AthInamdar |  linkedin.com/in/atharv-inamdar-149247285/  <br>Education <br>VIVEKANAND EDUCATION SOCIETY’S INSTITUTE OF TECHNOLOGY, UNIVERSITY OF MUMBAI          <br>B.E. in Computer Engineering | GPA: 8.79/10.00 <br>12th HSC board- CHAITANYA’S INTERNATIONAL SCHOOL, BARAMATI Percentage: 77.00                          <br>10th SSC board- CHH. SHIVAJI HIGH SCHOOL, VADUJ  Percentage: 93.40                                                       <br>Nov2022- Jun2026 <br>Jun2020-Aug2022 <br>Jun2014-Mar2020 <br>Projects <br>SuperVision – Project Management Tool for Perfect Coordination (4mem)                                                                       <br>MERN, REST API, WebSockets <br>IIIrd year project <br>● A full-stack web application designed to enhance coordination between scrum masters and team members by streamlining <br>task management, communication, and performance monitoring. <br>NiyatKalpa- A timely Solution for Medicines <br>React Native, TypeScript, Firebase, Custom AI Model, Zapier, Google Maps API. <br>● NiyatKalpa is a mobile app that redistributes near-expiry medicines at discounted prices using OCR and AI to reduce <br>medical waste and improve healthcare accessibility.  <br>Note Maker <br>DJANGO, React, JWT Authentication, REST framework <br>● Secure user authentication <br>SS360- Be updated from all directions:                                                                                                                <br>DJANGO, Algorithms, HTML, CSS, JAVASCRIPT, PYTHON <br>● Developing a website(SportSphere360) which provides updates related to sports all over the world. <br>more projects (Link to Portfolio) <br>Dec-2023 <br>Experience <br>AI Transformation Consultant – Tata iQ (Job Simulation)                                                                                                           <br>July-2025 <br>Simulated real-world AI consulting by analyzing financial data, predicting credit risks, and developing strategic interventions using <br>GenAI tools. <br>Placement Coordinator, Training & Placement Cell                                                                                                                 <br>Actively facilitated campus recruitment activities and acted as a point of contact between students and recruiters. <br>Skills <br>Technical skills: <br>Programming Languages: C, C++, Java, Proficient in Python ; Frameworks: Django, React ; Database: MySQL <br>Some Concepts known and Relevant Courses : Database Management Systems, Data Structures and Algorithms, Data Warehouse <br>and Mining, EDA, Analysis of Algorithms, Software Engineering,  <br>Certifications: Machine Learning, Digital Marketing, AWS Academy. <br>Soft skills: <br>Communication, teamwork, problem-solving, leadership, time management, adaptability, Canva design, content creation, post/vlog <br>writing, digital marketing.   <br>Achievements  <br>Karya Setu (INVICTUS 24)    24 hour Hackathon  (4mem)                                                                                                                <br>Algorithms, HTML, CSS, JAVASCRIPT, MongoDB <br>● Role- Frontend structure, logoMaking, Algorithms. <br>Jan-2024 <br>● Finalist (Certificate)
 
-### 👨‍💻 Computer Engineering Student | Full Stack Developer | AI Enthusiast
 
-I am a final-year B.E. Computer Engineering student at **Vivekanand Education Society's Institute of Technology (VESIT)** with a current GPA of **8.79** and a passion for building scalable web and mobile applications.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/atharv-inamdar-149247285/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvinamdar595@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AthInamdar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AthInamdar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AthInamdar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🚀 About Me
-
-- 🔭 I’m currently working on **Full Stack Development (MERN & Django)** and **AI-integrated Mobile Apps**.
-- 🌱 I’m currently learning **Advanced Data Structures & Algorithms** and **Generative AI**.
-- 💼 I have experience simulating **AI Transformation Consulting** at Tata iQ.
-- 🤝 I served as a **Placement Coordinator**, bridging the gap between students and recruiters.
-- ⚡ Fun fact: I was a Finalist in the **Karya Setu (INVICTUS 24)** 24-hour Hackathon!
-
----
-
-### 🛠️ Tech Stack
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | Python, Java, C, C++, JavaScript (ES6+), TypeScript |
-| **Frontend** | React.js, React Native, HTML5, CSS3, Tailwind |
-| **Backend** | Django, Node.js, Express.js, REST APIs, WebSockets |
-| **Databases** | MySQL, MongoDB, Firebase |
-| **Tools & Ops** | Git, GitHub, AWS Academy, Zapier, Canva |
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AthInamdar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📂 Featured Projects
-
-#### 📱 **[NiyatKalpa - Medicine Redistribution App](LINK_TO_REPO)**
-*A timely solution for medicines designed to reduce medical waste.*
-- **Tech:** React Native, TypeScript, Firebase, Custom AI Model, Google Maps API.
-- **Key Features:** Redistributes near-expiry medicines at discounted prices using **OCR and AI**.
-
-#### 💻 **[SuperVision - Project Management Tool](LINK_TO_REPO)**
-*A web application designed to enhance coordination between Scrum masters and teams.*
-- **Tech:** MERN Stack (MongoDB, Express, React, Node), WebSockets.
-- **Key Features:** Streamlined task management, real-time communication, and performance monitoring.
-
-#### 📝 **[Note Maker](LINK_TO_REPO)**
-*A secure note-taking application.*
-- **Tech:** Django, React, JWT Authentication.
-- **Key Features:** Secure user authentication and REST framework integration.
-
----
-
-### 📊 GitHub Stats
-
-![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=AthInamdar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AthInamdar&layout=compact&theme=radical)
-
----
-
-### 📫 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/atharv-inamdar-149247285/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:atharvinamdar595@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
